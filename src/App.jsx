@@ -64,6 +64,9 @@ function App() {
           </div>
         </div>
       </TodoContext.Provider>
+      <footer className='text-right text-white bg-[#172842] p-5 '>
+        By: Priyanshu Batham
+      </footer>
     </>
   )
 }
